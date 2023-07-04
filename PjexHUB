@@ -1,0 +1,9 @@
+if game.PlaceId== 13300124570 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Race-Sim-Script-RUSHED-/main/RACE%20SIM%20SCRIPT%20%5BRUSHED%20SO%20NOT%20GOOD%5D"))() end
+
+if game.PlaceId== 12402669933 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Apocalypse-Tycoon-/main/Apocalypse%20Tycoon%20Script"))() end
+
+if game.PlaceId== 11868251164 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Sky-dive-off-a-tower/main/SKDOAT"))() end
+
+if game.PlaceId== 205224386 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/PJex-Hide-and-seek-Extreme/main/Hide%20and%20Seek%20Extreme%20PJex"))() end
+
+if game.PlaceId== 12357508217 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Chill-Obby-EX-by-PJEX/main/Chill%20Obby%20EX"))() end
