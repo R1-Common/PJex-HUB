@@ -7,3 +7,7 @@ if game.PlaceId== 11868251164 then loadstring(game:HttpGet("https://raw.githubus
 if game.PlaceId== 205224386 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/PJex-Hide-and-seek-Extreme/main/Hide%20and%20Seek%20Extreme%20PJex"))() end
 
 if game.PlaceId== 12357508217 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Chill-Obby-EX-by-PJEX/main/Chill%20Obby%20EX"))() end
+
+if game.PlaceId== 13230182363 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/1-money-every-click/main/1%20money%20every%20click"))() end
+
+if game.PlaceId== 13098383875 then loadstring(game:HttpGet("https://raw.githubusercontent.com/R1-Common/Super-punch-sim/main/pretty%20usless%20%5BTBH%5D"))() end
